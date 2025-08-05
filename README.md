@@ -1,0 +1,1 @@
+Esta é a resolução da atividade formativa 1 da semana de estudos 2 da disciplina de DevOps da PUCPR.
